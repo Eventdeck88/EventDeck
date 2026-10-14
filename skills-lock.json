@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "understand": {
+      "source": "egonex-ai/understand-anything",
+      "sourceType": "github",
+      "skillPath": "understand-anything-plugin/skills/understand/SKILL.md",
+      "computedHash": "19fa0ec225cab460f0657c5f118dc061658da600be08ea4bd6bd030dbe16416b"
+    }
+  }
+}
